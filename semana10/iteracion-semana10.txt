@@ -1,0 +1,11 @@
+Tareas que haría primero:
+1. Crear el registro de incidencias.
+2. Enviar alertas a Telegram cuando se registra un nuevo reporte.
+
+Razón de prioridad:
+Estas tareas son las más importantes porque permiten capturar la información inicial y avisar al equipo de seguimiento. Sin datos registrados y notificaciones, el proceso comunitario no puede arrancar ni mantenerse coordinado.
+
+Definición de terminado:
+- Funciona correctamente.
+- Fue probada con al menos un caso de uso.
+- Quedó registrada en Git con un commit claro.
